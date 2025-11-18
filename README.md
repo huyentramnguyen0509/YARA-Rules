@@ -11,7 +11,7 @@ These rules are designed to identify specific **Evasion Techniques** and **Anti-
 * **Focus:** Advanced Static Analysis & Anti-Reverse Engineering techniques.
 
 ## Rule Coverage
-The ruleset (`lockbit3_detection.yar`) specifically targets the following behaviors:
+The ruleset (`AntiDebugging.yara`) specifically targets the following behaviors:
 
 1.  **Anti-Debugging Checks:**
     * Detection of API calls like `IsDebuggerPresent`, `CheckRemoteDebuggerPresent`.
